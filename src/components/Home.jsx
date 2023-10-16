@@ -36,8 +36,8 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                     options={{
                       strings: [
                         "I'm Huzinah Febisola .S.",
-                        "I'm a Software Engineer.",
-                        "I'm a Fullstack Developer.",
+                        "I'm a Software Developer.",
+                        "I'm a Front-end Developer.",
                         "I'm a Programmer.",
                         "I'm a Content Creator."
                       ],

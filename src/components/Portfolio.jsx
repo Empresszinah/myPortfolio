@@ -250,32 +250,32 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       ],
       categories: [filters.WEBSITES],
     },
-    {
-      title: "Brand Logo",
-      projectInfo:
-        "I designed this logo according to what the client needs for the brand.",
-      client: "Empress",
-      technologies: "",
-      industry: "Branding",
-      date: "2023",
-      url: {
-        name: "Empresszee",
-        link: "",
-      },
-      socialLinks: {
-        facebook: "http://www.facebook.com/",
-        twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
-        instagram: "http://www.instagram.com/",
-        mail: "",
-      },
-      thumbImage: "images/projects/project-7.jpeg",
-      sliderImages: [
-        "images/projects/project-1.jpg",
-        "images/projects/project-5.jpg",
-      ],
-      categories: [filters.GRAPHICS],
-    },
+    // {
+    //   title: "Brand Logo",
+    //   projectInfo:
+    //     "I designed this logo according to what the client needs for the brand.",
+    //   client: "Empress",
+    //   technologies: "",
+    //   industry: "Branding",
+    //   date: "2023",
+    //   url: {
+    //     name: "Empresszee",
+    //     link: "",
+    //   },
+    //   socialLinks: {
+    //     facebook: "http://www.facebook.com/",
+    //     twitter: "http://www.twitter.com/",
+    //     google: "http://www.google.com/",
+    //     instagram: "http://www.instagram.com/",
+    //     mail: "",
+    //   },
+    //   thumbImage: "images/projects/project-7.jpeg",
+    //   sliderImages: [
+    //     "images/projects/project-1.jpg",
+    //     "images/projects/project-5.jpg",
+    //   ],
+    //   categories: [filters.GRAPHICS],
+    // },
   ];
 
   // initialize an Isotope object with configs

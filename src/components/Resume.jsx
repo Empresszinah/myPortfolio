@@ -4,7 +4,7 @@ import resumeFile from "../documents/resume.pdf";
 const Resume = ({ classicHeader, darkTheme }) => {
   const educationDetails = [
     {
-      yearRange: "2017 - 2019",
+      yearRange: "2014 - 2019",
       title: "Physics with Electronics",
       degree: "Higher National Diploma",
       desc: "Electronics is a branch of physics that deals with the behavior and control of electrons and other charged particles in various materials and devices. Physics provides the fundamental principles and theoretical framework that underlie electronic devices and technologies.",

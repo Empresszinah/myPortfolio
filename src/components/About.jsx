@@ -33,15 +33,15 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 "text-7 fw-600 mb-3 " + (darkTheme ? "text-white" : "")
               }
             >
-              I'm <span className="text-primary">Huzinah Febisola Sulaiman,</span> a Web
+              I'm <span className="text-primary">Huzinah Febisola Sulaiman,</span> a Software
               Developer
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
-            I have been working as a professional developer since 2021. I practically spend my whole day experimenting with HTML, CSS, JavaScript, reactjs, Php, and wordpress. Inhaling a wide variety of potential information through a few hundred RSS feeds is one of my favourite thing to do. I build and develop applications that delight and inform. I do it well.
+            I have been working as a professional developer since 2020. I practically spend my whole day experimenting with HTML, CSS, JavaScript, reactjs, Nodejs and wordpress. Inhaling a wide variety of potential information through a few hundred RSS feeds is one of my favourite thing to do. I build and develop applications that delight and inform. I do it well.
 
 I have passion for writing, blogging, and photography. I am a certified Physicist and a Developer. I have developed websites for many companies. I also consider myself as a SEO expert.
 
-My skills are not just centered around SEO, Web Designing, and development, but also a good content creator, and graphic designer. I am tech geek and study daily to upgrade my skills.
+My skills are not just centered around software development, but also a good content creator, and business analyst. I am tech geek and study daily to upgrade my skills.
             </p>
             
           </div>

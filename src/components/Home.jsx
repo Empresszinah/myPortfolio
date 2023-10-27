@@ -38,7 +38,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                         "I'm Huzinah Febisola .S.",
                         "I'm a Software Developer.",
                         "I'm a Front-end Developer.",
-                        "I'm a Programmer.",
+                        "I'm a Business Analyst.",
                         "I'm a Content Creator."
                       ],
                       autoStart: true,

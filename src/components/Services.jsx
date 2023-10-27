@@ -19,13 +19,13 @@ const Services = ({ classicHeader, darkTheme }) => {
       icon: "fas fa-tablet",
     },
     {
-      name: "Graphic Design",
-      desc: "As a professional graphic designer I create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, or captivate consumers. I  work on a variety of design projects, including logos, websites, advertisements, product packaging, and magazines.",
+      name: "Business Analysis",
+      desc: "As a professional Business Analysis I gather, analyze, and document business requirements, and then communicate those requirements to IT teams so that they can develop and implement solutions.",
       icon: "fas fa-paint-brush",
     },
     {
-      name: "SEO Marketing",
-      desc: "I help in optimizing a website or online content to rank higher in search engine results pages (SERPs) for specific keywords and phrases. My goal is to improve the quantity and quality of traffic to a website from organic search results.",
+      name: "Social Media Management",
+      desc: "I create creative and engaging content, as well as I analyze data and track the results of social media campaigns.",
       icon: "fas fa-chart-area",
     },
     {

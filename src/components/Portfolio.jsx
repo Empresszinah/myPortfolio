@@ -12,10 +12,88 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
   const filters = {
     WEBSITES: "Websites",
     MOBILE: "Mobile",
-    GRAPHICS: "Graphics",
+    // GRAPHICS: "Graphics",
   };
 
   const projectsData = [
+    {
+      title: "Digital Skills",
+      projectInfo:
+        "An online tech school.",
+      client: "Xphiz",
+      // technologies: "HTML, CSS, PHP, Java",
+      industry: "IT",
+      date: "2022",
+      url: {
+        name: "Xphiz",
+        link: "https://xphiz.com/",
+      },
+      socialLinks: {
+        facebook: "http://www.facebook.com/xphiz/",
+        twitter: "http://www.twitter.com/xphiz/",
+        google: "http://www.google.com/xphiz/",
+        instagram: "https://www.instagram.com/xphiz/",
+        mail: "",
+      },
+      thumbImage: "images/projects/xphizpic.png",
+      sliderImages: [
+        "images/projects/project-1.1.png",
+        "images/projects/project-1.2.png",
+      ],
+      categories: [filters.WEBSITES],
+    },
+    {
+      title: "Strydes Hospital",
+      projectInfo:
+        "This is a forum designed for hospital patients for them to be able to have acces to their hospital records and datas.",
+      client: "Stride Hospital",
+      // technologies: "HTML, CSS, PHP, Java",
+      industry: "Health",
+      date: "2022",
+      url: {
+        name: "Strydes Hospital",
+        link: "https://hospital-frontend-8eii-kv2py363k-empresszinah.vercel.app/",
+      },
+      socialLinks: {
+        facebook: "http://www.facebook.com/strydeshospital/",
+        twitter: "http://www.twitter.com/strydeshospital/",
+        google: "http://www.google.com/strydeshospital/",
+        instagram: "https://www.instagram.com/strydeshospital/",
+        mail: "",
+      },
+      thumbImage: "images/projects/Strydes.png",
+      sliderImages: [
+        "images/projects/project-1.1.png",
+        "images/projects/project-1.2.png",
+      ],
+      categories: [filters.WEBSITES],
+    },
+    // {
+    //   title: "Health Community",
+    //   projectInfo:
+    //     "This is a forum designed for mothers to discuss everything beneficial to their health, kids, and society.",
+    //   client: "Mum Confession",
+    //   technologies: "HTML, CSS, PHP, Java",
+    //   industry: "Community",
+    //   date: "2022",
+    //   url: {
+    //     name: "Mum Confession",
+    //     link: "https://mumconfessions.com/",
+    //   },
+    //   socialLinks: {
+    //     facebook: "http://www.facebook.com/mumconfessions/",
+    //     twitter: "http://www.twitter.com/mumconfessions/",
+    //     google: "http://www.google.com/mumconfessions/",
+    //     instagram: "https://www.instagram.com/mumconfessions/",
+    //     mail: "",
+    //   },
+    //   thumbImage: "images/projects/project-1.png",
+    //   sliderImages: [
+    //     "images/projects/project-1.1.png",
+    //     "images/projects/project-1.2.png",
+    //   ],
+    //   categories: [filters.WEBSITES],
+    // },
     {
       title: "Health Community",
       projectInfo:

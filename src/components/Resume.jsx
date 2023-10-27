@@ -9,61 +9,61 @@ const Resume = ({ classicHeader, darkTheme }) => {
       degree: "Higher National Diploma",
       desc: "Electronics is a branch of physics that deals with the behavior and control of electrons and other charged particles in various materials and devices. Physics provides the fundamental principles and theoretical framework that underlie electronic devices and technologies.",
     },
-    {
-      yearRange: "2013 - 2015",
-      title: "Science Lab Tech",
-      degree: "National Diploma",
-      desc: "This is a branch of science that involves the use of laboratory instruments, techniques, and procedures to investigate and analyze various scientific phenomena. The field of science laboratory technology covers a wide range of scientific disciplines, such as biology, chemistry, physics, and environmental science..",
-    },
-    {
-      yearRange: "2007 - 2013",
-      title: "Science",
-      degree: "High School",
-      desc: "Science is a systematic and empirical approach to acquiring knowledge about the natural world through observation, experimentation, and analysis.",
-    },
+    // {
+    //   yearRange: "2013 - 2015",
+    //   title: "Science Lab Tech",
+    //   degree: "National Diploma",
+    //   desc: "This is a branch of science that involves the use of laboratory instruments, techniques, and procedures to investigate and analyze various scientific phenomena. The field of science laboratory technology covers a wide range of scientific disciplines, such as biology, chemistry, physics, and environmental science..",
+    // },
+    // {
+    //   yearRange: "2007 - 2013",
+    //   title: "Science",
+    //   degree: "High School",
+    //   desc: "Science is a systematic and empirical approach to acquiring knowledge about the natural world through observation, experimentation, and analysis.",
+    // },
   ];
 
   const experienceDetails = [
     {
-      yearRange: "2022 - 2023",
-      title: "freelance Developer",
-      place: "Tithcqo",
-      desc: "As a professional web developer, I specialize in building responsive web applications and websites. I use programming languages, such as HTML, CSS, Reactjs and JavaScript, to create and maintain websites that are functional, user-friendly, and visually appealing.",
+      yearRange: "2021 - 2023",
+      title: "Software Developer",
+      place: "Xphiz Digital",
+      desc: "I successfully developed and deployed engaging and market-fit software applications.",
     },
     {
-      yearRange: "2021 - 2023",
-      title: "Part-time Frontend Developer",
-      place: "Xphliz",
+      yearRange: "2020 - 2021",
+      title: "Frontend Developer",
+      place: "Tithcqo",
       desc: "I used HTML, CSS, Javascript and React to develop frontend excellently during my time of services",
     },
     {
-      yearRange: "2021 - ",
-      title: "SEO Marketing",
-      place: "Vee Accessories",
-      desc: "I was able to managed and run the SEO of Vee accessories with my skills so well which increases the engagement in the brand.",
+      yearRange: "2019 - 2021 ",
+      title: "Business Analyst",
+      place: "Tithcqo",
+      desc: "I work within the core of my organization with my business analysis capabilities to improve and streamline processes that help my organization meet its objectives and reach goals.",
     },
   ];
 
   const skills = [
     {
-      name: "Web Design",
-      percent: 85,
+      name: "Reactjs",
+      percent: 90,
     },
     {
-      name: "HTML/CSS",
-      percent: 95,
+      name: "Nodejs",
+      percent: 65,
     },
     {
       name: "JavaScript",
       percent: 80,
     },
     {
-      name: "React JS",
-      percent: 70,
+      name: "HTML",
+      percent: 95,
     },
     {
-      name: "PHP",
-      percent: 50,
+      name: "CSS",
+      percent: 90,
     },
     {
       name: "Wordpress",
